@@ -1,0 +1,2 @@
+# Site-Lauduz
+Desenvolvimento das novas telas da lauduz. A A Lauduz é uma Organização Não-Governamental que criou a Primeira Plataforma de Telemedicina Sem Fins Lucrativos do Brasil, iniciando os teleatendimentos dia 21/03/2020 em Santa Maria/RS. Com os dados das primeiras 2.000 teleconsultas notou-se que a Plataforma ajuda a reduzir aglomerações em Unidades Básicas de Saúde e Pronto-Atendimentos, contribuindo para reduzir a contaminação do novo coronavírus.
